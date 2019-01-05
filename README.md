@@ -9,7 +9,7 @@ The [Jupyter Notebook](https://github.com/leoauri/interval-maze/blob/master/Inte
 - clone repo
 - `cd` into directory
 - `pipenv install`
-- `jupyter notebook`
+- run notebook in environment: `pipenv run jupyter notebook`
 - install MuseScore to see scores, for example with `brew cask install musescore`
 
 In case of a problem where music21 has a misconfigured path to MuseScore, this snippet may solve it:
